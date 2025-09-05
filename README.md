@@ -1,2 +1,2 @@
 # Movie-Library-API
-an small movie library
+a small movie library
